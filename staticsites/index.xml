@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Static Sites on Cocina</title>
+    <link>https://cocina.proyectoomega.es/staticsites/</link>
+    <description>Recent content in Static Sites on Cocina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jul 2022 11:20:26 +0100</lastBuildDate><atom:link href="https://cocina.proyectoomega.es/staticsites/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
