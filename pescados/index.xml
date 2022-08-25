@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pescados on Cocina</title>
+    <link>https://cocina.proyectoomega.es/pescados/</link>
+    <description>Recent content in Pescados on Cocina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 11:20:26 +0100</lastBuildDate><atom:link href="https://cocina.proyectoomega.es/pescados/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lenguado con patatas a lo pobre</title>
+      <link>https://cocina.proyectoomega.es/pescados/lenguado/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://cocina.proyectoomega.es/pescados/lenguado/</guid>
+      <description>Ingredientes 4 Lenguados Ajo Vino Blanco Patatas Limon Aceite Se cortan las patatas como para tortilla de patata. Quizá algo más gruesa. Si se cortan a mano no se pegarán entre ellas como cuando se corta con máquina. Se fríen a fuego medio alto. Cuando empiezan a dorarse se sube a fuego fuerte para terminar de dorar. Eliminar casi la totalidad del aceite y añadirle el majado de ajos, vinagre y limón.</description>
+    </item>
+    
+  </channel>
+</rss>
